@@ -1,0 +1,6 @@
+remotezip
+requests
+numpy
+scipy
+soundfile
+pandas
